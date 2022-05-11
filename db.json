@@ -1,6 +1,6 @@
 {
   "posts": [
-    { 
+    {
       "lastElementNumber":1,
       "ComplexName": "Захiдно-Український",
       "RefugeName": "Луцьке",
@@ -10,6 +10,10 @@
       "ammountPumpedGas": "1937,6",
       "quantity": "210,4",
       "date": "04.04.1990"
-    } 
-  ]
-} 
+
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
