@@ -13,7 +13,7 @@
     }
     
     { 
-      "id":"2",
+      "id":2,
       "ComplexName": "",
       "RefugeName": "",
       "capasity": "",
@@ -25,7 +25,7 @@
     }
 
     { 
-      "id":"3",
+      "id":3,
       "ComplexName": "",
       "RefugeName": ,
       "capasity": ,
@@ -37,7 +37,7 @@
     }
   
     { 
-      "id":"4",
+      "id":4,
       "ComplexName": ,
       "RefugeName": ,
       "capasity": ,
@@ -49,7 +49,7 @@
     }
     
     { 
-      "id":"5",
+      "id":5,
       "ComplexName": ,
       "RefugeName": ,
       "capasity": ,
@@ -61,7 +61,7 @@
     }
 
     { 
-      "id":"6",
+      "id":6,
       "ComplexName": ,
       "RefugeName": ,
       "capasity": ,
@@ -73,7 +73,7 @@
     }
 
     { 
-      "id":"7",
+      "id":7,
       "ComplexName": ,
       "RefugeName": ,
       "capasity": ,
@@ -85,7 +85,7 @@
     }
 
     { 
-      "id":"8",
+      "id":8,
       "ComplexName": ,
       "RefugeName": ,
       "capasity": ,
@@ -97,7 +97,7 @@
     }
 
     { 
-      "id":"9",
+      "id":9,
       "ComplexName": ,
       "RefugeName": ,
       "capasity": ,
@@ -109,7 +109,7 @@
     }
 
     { 
-      "id":"10",
+      "id":10,
       "ComplexName": ,
       "RefugeName": ,
       "capasity": ,
@@ -121,7 +121,7 @@
     }
 
     { 
-      "id":"11",
+      "id":11,
       "ComplexName": ,
       "RefugeName": ,
       "capasity": ,
@@ -133,7 +133,7 @@
     }
 
     { 
-      "id":"12",
+      "id":12,
       "ComplexName": ,
       "RefugeName": ,
       "capasity": ,
@@ -145,7 +145,7 @@
     }
 
     { 
-      "id":"13",
+      "id":13,
       "ComplexName": ,
       "RefugeName": ,
       "capasity": ,
