@@ -1,5 +1,5 @@
 {
-"posts": [
+  "posts": [
     {
       "id":1,
       "name_of_complexInput": "Захiдно-Український",
@@ -170,7 +170,6 @@
 
     }
   ],
-
   "profile": {
     "name": "typicode"
   }
