@@ -10,10 +10,9 @@
       "amount_of_pumped_gasInput": "1937,6",
       "quantity_of_selected_gasInput": "210,4",
       "dateInput": "04.04.1990"
-
     },
   
-    {
+   /* {
       "id":2,
       "name_of_complexInput": "Захiдно-Український",
       "name_of_refugeInput": "Черепівське",
@@ -168,7 +167,7 @@
       "quantity_of_selected_gasInput": "450,0",
       "dateInput": "15.06.1993"
 
-    }
+    }*/
   ],
   "profile": {
     "name": "typicode"
